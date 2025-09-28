@@ -1,3 +1,7 @@
+.python-version
+audio/
+transcript/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
